@@ -1,11 +1,9 @@
 # AG-CNN
-
 This repository contains model inference code for the classification framework accompanying the paper "Deep Learning in Computed Tomography Pulmonary Angiography Imaging: A Dual-Pronged Approach for Pulmonary Embolism Detection". 
 
-<img src="https://github.com/fabihabushra/classifier-guided-detection/assets/48798437/9f39aca9-8dd4-4f53-b9b0-a27abf228b0f" alt="architecture_AGCNN-01" style="width: 85%;">
+<img src="https://github.com/fabihabushra/classifier-guided-detection/assets/48798437/393aca12-e423-40e6-808c-c0ede2950c8b" alt="architecture_AGCNN-01" style="width: 85%;">
 
 ## Environment
-
 Please prepare an environment with python=3.9, and then use the following command for the dependencies:
 
 ```bash
