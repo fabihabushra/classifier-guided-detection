@@ -1,5 +1,5 @@
 # AG-CNN
-This repository contains the model inference code for the classification framework accompanying the paper "Deep Learning in Computed Tomography Pulmonary Angiography Imaging: A Dual-Pronged Approach for Pulmonary Embolism Detection". 
+This directory contains the model inference code for the classification framework accompanying the paper "Deep Learning in Computed Tomography Pulmonary Angiography Imaging: A Dual-Pronged Approach for Pulmonary Embolism Detection". 
 
 <img src="https://github.com/fabihabushra/classifier-guided-detection/assets/48798437/393aca12-e423-40e6-808c-c0ede2950c8b" alt="architecture_AGCNN-01" style="width: 100%;">
 
