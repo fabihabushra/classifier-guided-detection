@@ -1,0 +1,12 @@
+opencv-python==4.8.0.76
+numpy==1.23.5
+-f https://download.pytorch.org/whl/torch_stable.html 
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+pandas==1.5.3
+scikit-image==0.19.3
+scikit-learn==1.2.2
+seaborn==0.12.2
+matplotlib==3.7.1
+tqdm==4.66.1
+torchsummary==1.5.1
