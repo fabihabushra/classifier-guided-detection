@@ -31,7 +31,10 @@ pip install -r requirements.txt
 ```
 
 ## Test Data
-Use the [preprocessed test data](https://drive.google.com/drive/folders/1kEZMfsmHh-MqtMj4cyxTQ--JzYxVCJy4?usp=sharing) for model inference.
+Use the [preprocessed test data](https://drive.google.com/drive/folders/1s8_42BF2beqi9FjlMyK5UBAiKQiojOhC?usp=sharing) for model inference.
+
+## Model Weights
+You can download the trained model weights from [this link](https://drive.google.com/drive/folders/1HwDC2aD_1qlhRx2mOMkzpXLGvepuxjvf?usp=sharing).
 
 ## Model Inference
 To perform model inference on the test data, use the following command:
