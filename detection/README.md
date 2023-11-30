@@ -34,7 +34,7 @@ Use the [preprocessed test data](https://drive.google.com/drive/folders/1D6Tnq2a
 ## Usage
 To compute object detection metrics based on the predicted classifier-guided detection, use the following command:
 ```bash
-!python object_detection_metrics.py \
+python object_detection_metrics.py \
   --gnd_label_dir  "./data/labels/test" \
   --pred_label_dir "./classifier_guided_prediction/classifier_guided_detection_wbf" \
   --gnd_image_dir "./data/images/test" 
