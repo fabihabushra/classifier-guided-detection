@@ -32,7 +32,7 @@ Use the [preprocessed test data](https://drive.google.com/drive/folders/1D6Tnq2a
 
 
 ## Usage
-To compute object detection metrics based on the predicted classifier-guided detection, use the following command:
+To compute object detection metrics using the predictions obtained from the classifier-guided detection, execute the following command:
 ```bash
 python object_detection_metrics.py \
   --gnd_label_dir  "./data/labels/test" \
