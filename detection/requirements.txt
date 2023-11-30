@@ -1,0 +1,4 @@
+torch==2.1.0+cu118
+numpy==1.23.5
+torchmetrics==1.0.0
+torchvision==0.16.0+cu118
